@@ -264,11 +264,6 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Boateng Daniel</summary>
-    <ul>
-    <li><a href="https://github.com/Dan-Boat">Github</a></li>
-    <li><a href="https://twitter.com/Dann_boat">Twitter</a></li>
-    <li><a href="dannboateng@gmail.com">e-mail</a></li>
-    </ul>
+    <summary>Victor Elegbede & Kpor Kennedy</summary>
 </details>
 
