@@ -1,3 +1,4 @@
+Had to do some small work after my partner Victor Elegbede helped me out
 # 0x01. AirBnB clone - Web static
 
 ## Learning Objectives:bulb:
